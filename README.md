@@ -19,10 +19,37 @@ Atliq Hardware, an innovative leader in computer hardware and peripherals, recog
 4. Customer Dynamics:
     * Top customers received around 30% average discounts, maintaining competitive pricing and satisfaction.
 
-# Ad-hoc request - 1
+# Ad-Hoc Requests
+1. Provide the list of markets in which customer "Atliq Exclusive" operates its
+business in the APAC region.
 ```sql
 SELECT
 	distinct(market)
 FROM dim_customer
 WHERE customer = "Atliq Exclusive" AND region = "APAC";
+```
+2. What is the percentage of unique product increase in 2021 vs. 2020? The
+final output contains these fields,
+unique_products_2020
+unique_products_2021
+percentage_chg
+```sql
+WITH unique_product_2020 AS (
+	SELECT
+		count(distinct(product_code)) as unique_products_2020
+	FROM fact_sales_monthly s
+    WHERE s.fiscal_year = 2020
+),
+unique_product_2021 AS (
+	SELECT
+		count(distinct(product_code)) as unique_products_2021
+	FROM fact_sales_monthly s
+    WHERE s.fiscal_year = 2021;
+)
+
+SELECT
+	*,
+    CONCAT(ROUND(((unique_products_2021-unique_products_2020)/unique_products_2020)*100,2),"%") as percentage_chg
+FROM unique_product_2020
+JOIN unique_product_2021
 ```
