@@ -7,8 +7,8 @@ Atliq Hardware, an innovative leader in computer hardware and peripherals, recog
 
 # Key Takeaways
 1. Gross Sales Performance:
-  * India led in Asia Pacific, with notable contributions from South Korea, Indonesia, and Australia.
-  * Retailer channel accounted for 73.22% of sales in 2021. Monthly trends at Atliq Exclusive revealed November as peak.
+   * India led in Asia Pacific, with notable contributions from South Korea, Indonesia, and Australia.
+   * Retailer channel accounted for 73.22% of sales in 2021. Monthly trends at Atliq Exclusive revealed November as peak.
 
 2. Segments Performance:
   * Atliq Hardware saw a surge in new products in 2021, especially in Accessories, indicating positive market response.
