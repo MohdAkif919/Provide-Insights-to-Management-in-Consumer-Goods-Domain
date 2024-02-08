@@ -11,10 +11,10 @@ Atliq Hardware, an innovative leader in computer hardware and peripherals, recog
    * Retailer channel accounted for 73.22% of sales in 2021. Monthly trends at Atliq Exclusive revealed November as peak.
 
 2. Segments Performance:
-  * Atliq Hardware saw a surge in new products in 2021, especially in Accessories, indicating positive market response.
+    * Atliq Hardware saw a surge in new products in 2021, especially in Accessories, indicating positive market response.
 
 3. Quantity Sold:
-  * Quarter 1 dominated sales, suggesting focus areas for marketing strategies.
+    * Quarter 1 dominated sales, suggesting focus areas for marketing strategies.
     
 4. Customer Dynamics:
-  * Top customers received around 30% average discounts, maintaining competitive pricing and satisfaction.
+    * Top customers received around 30% average discounts, maintaining competitive pricing and satisfaction.
