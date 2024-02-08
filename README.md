@@ -18,3 +18,11 @@ Atliq Hardware, an innovative leader in computer hardware and peripherals, recog
     
 4. Customer Dynamics:
     * Top customers received around 30% average discounts, maintaining competitive pricing and satisfaction.
+
+# Ad-hoc request - 1
+```sql
+SELECT
+	distinct(market)
+FROM dim_customer
+WHERE customer = "Atliq Exclusive" AND region = "APAC";
+```
