@@ -2,7 +2,7 @@
 Atliq Hardware, an innovative leader in computer hardware and peripherals, recognized the critical need for data-driven decisions. Initiating 𝟭𝟬 𝗮𝗱-𝗵𝗼𝗰 𝗿𝗲𝗾𝘂𝗲𝘀𝘁𝘀, they tasked the data analytics team. Leveraging 𝗦𝗤𝗟 𝗾𝘂𝗲𝗿𝗶𝗲𝘀, I meticulously tackled each request, unraveling invaluable insights for 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁.
 
 * Video Presentation: [Click Here](https://youtu.be/Uf3cyl1ggTo?si=QozlI5oeoz6nlZnJ)
-* LinkedIn Post:
+* LinkedIn Post: [Click Here](https://www.linkedin.com/posts/mohdakif919_codebasics-sql-mysql-activity-7161241946034757632-dKJG?utm_source=share&utm_medium=member_desktop)
 * Challenge Link: [Click Here](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 # Key Takeaways
